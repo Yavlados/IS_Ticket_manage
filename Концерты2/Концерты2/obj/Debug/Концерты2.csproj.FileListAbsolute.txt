@@ -1,0 +1,54 @@
+c:\users\user\documents\visual studio 2015\Projects\Концерты2\Концерты2\bin\Debug\Концерты2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Концерты2\Концерты2\bin\Debug\Концерты2.exe
+c:\users\user\documents\visual studio 2015\Projects\Концерты2\Концерты2\bin\Debug\Концерты2.pdb
+c:\users\user\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.exe
+c:\users\user\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeJanr.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeArtist.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.Autorizacia.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeCity.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.MenuMANAGER.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.MenuUSER.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeManager.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeKP.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeDogovor.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeVistuplenie.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeBilet.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.Otchety.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.Zaprosi.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ZaprosVKP.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ZaprosVCOUNTRY.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ZaprosARTIST.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.zaprosBILET.resources
+C:\Users\User\documents\visual studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.SEXMASHINA.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Концерты2\Концерты2\obj\Debug\Концерты2.ZaprosARTPOVIP.resources
+H:\БД\Концерты2\Концерты2\bin\Debug\Концерты2.exe.config
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.exe
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.pdb
+H:\БД\Концерты2\Концерты2\bin\Debug\Концерты2.exe
+H:\БД\Концерты2\Концерты2\bin\Debug\Концерты2.pdb
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.csprojResolveAssemblyReference.cache
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.Autorizacia.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeBilet.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeCity.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeDogovor.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeKP.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeVistuplenie.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.MenuMANAGER.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeJanr.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.MenuUSER.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeManager.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ChangeArtist.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.Otchety.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.Properties.Resources.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ORazrabotchike.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ZaprosARTIST.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ZaprosARTPOVIP.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.zaprosBILET.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.Zaprosi.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ZaprosVCOUNTRY.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.ZaprosVKP.resources
+H:\БД\Концерты2\Концерты2\obj\Debug\Концерты2.csproj.GenerateResource.Cache
